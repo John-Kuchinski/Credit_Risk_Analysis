@@ -1,2 +1,15 @@
-# Supervised_Machine_Learning
-Module 18
+# **Overview**
+Using Supervised machine learning in order to analyze high and low risk individuals for bank loans.
+
+## _Software_
+-
+-
+-
+-
+-
+
+
+
+# **Results**
+
+# **Summary**
