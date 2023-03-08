@@ -29,4 +29,16 @@ Using Supervised machine learning in order to analyze high and low risk individu
 
 <img width="891" alt="combination" src="https://user-images.githubusercontent.com/114188120/223768424-6b9dc4b4-0620-4e54-afb8-76c214539394.png">
 
+**_Random Forest_**
+
+<img width="867" alt="random_forest" src="https://user-images.githubusercontent.com/114188120/223772609-7f2bdba6-548c-4257-a266-f451f8703c64.png">
+
+
+**_Easy Ensemble_**
+
+<img width="1027" alt="easy_ensemble" src="https://user-images.githubusercontent.com/114188120/223772694-5c4f3da8-e20f-4049-8d12-1cf94d8dd3a5.png">
+
+
 # **Summary**
+
+Based on the outcomers we received from trying each of these models, if we had to select one to absolutely use, we would want to use the ensemble as it gave the best accurracy on the high risk individual variable. However as an overall recommendation I would not suggest using any of these models on a commercial basis as overall accuracy on the high risk variables were all less than 10% accurate.
